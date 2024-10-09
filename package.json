@@ -3,6 +3,7 @@
   "displayName": "Syntax Error Summary",
   "description": "Displays a summary of syntax errors in the current document",
   "version": "0.0.1",
+  "icon": "public/icon.png",
   "engines": {
     "vscode": "^1.60.0"
   },
